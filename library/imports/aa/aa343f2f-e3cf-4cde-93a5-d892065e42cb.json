@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "AdobeStock_163586049_Preview (3)_06",
+    "texture": "a86d4fe6-c10b-450d-853e-2e03545bbbdf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      156,
+      202
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      202
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

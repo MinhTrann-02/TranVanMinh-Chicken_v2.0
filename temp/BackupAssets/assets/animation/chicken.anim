@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "chicken",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 22,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "09f6ad82-ef83-44c7-a000-14e2d98bdc4e"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "99109794-c7fa-42d9-bd7d-031111d02567"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "d648645e-a370-4586-9fb8-2e27aa95a349"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "8bf1c645-8c56-4249-b0fc-2be3dc7c7cd9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

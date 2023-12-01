@@ -1,0 +1,498 @@
+2023-12-01T03:44:05.823Z - normal: Load ~/.CocosCreator/settings.json
+2023-12-01T03:44:05.876Z - normal: Initializing Asset Database
+2023-12-01T03:44:05.879Z - normal: checking language setting...
+2023-12-01T03:44:05.879Z - normal: Language: en
+2023-12-01T03:44:06.407Z - success: preview server running at http://localhost:7456
+2023-12-01T03:44:06.418Z - success: protocol editor-framework registered
+2023-12-01T03:44:06.418Z - success: protocol app registered
+2023-12-01T03:44:06.418Z - success: protocol theme registered
+2023-12-01T03:44:06.418Z - success: protocol packages registered
+2023-12-01T03:44:06.418Z - success: protocol uuid registerred
+2023-12-01T03:44:06.418Z - success: protocol db registerred
+2023-12-01T03:44:06.419Z - success: protocol thumbnail registerred
+2023-12-01T03:44:06.419Z - success: protocol unpack registerred
+2023-12-01T03:44:06.419Z - success: protocol disable-commonjs registerred
+2023-12-01T03:44:07.275Z - normal: connected!
+2023-12-01T03:44:07.276Z - normal: Check project /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0
+2023-12-01T03:44:07.277Z - normal: Initializing project /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0
+2023-12-01T03:44:07.628Z - normal: Initializing Cocos2d
+2023-12-01T03:44:08.219Z - normal: Initializing engine extends
+2023-12-01T03:44:08.243Z - success: alipay-adapter loaded
+2023-12-01T03:44:08.256Z - success: asset-db-debugger loaded
+2023-12-01T03:44:08.262Z - success: baidu-adapter loaded
+2023-12-01T03:44:08.263Z - success: color-picker loaded
+2023-12-01T03:44:08.377Z - success: fb-audience-network loaded
+2023-12-01T03:44:08.423Z - success: fb-live-stream loaded
+2023-12-01T03:44:08.425Z - success: google-play-instant loaded
+2023-12-01T03:44:08.429Z - success: huawei-runtime loaded
+2023-12-01T03:44:08.613Z - success: cpk-publish loaded
+2023-12-01T03:44:08.614Z - success: jsb-adapter loaded
+2023-12-01T03:44:08.617Z - success: oppo-runtime loaded
+2023-12-01T03:44:08.620Z - success: package-manager loaded
+2023-12-01T03:44:08.717Z - success: qqplay-adapter loaded
+2023-12-01T03:44:08.719Z - success: runtime-dev-tools loaded
+2023-12-01T03:44:08.723Z - success: sdkbox loaded
+2023-12-01T03:44:08.726Z - success: tester loaded
+2023-12-01T03:44:08.728Z - success: ui-kit-preview-extra loaded
+2023-12-01T03:44:08.731Z - success: ui-kit-preview loaded
+2023-12-01T03:44:08.733Z - success: ui-kit loaded
+2023-12-01T03:44:08.738Z - success: vivo-runtime loaded
+2023-12-01T03:44:08.738Z - success: weapp-adapter loaded
+2023-12-01T03:44:08.739Z - success: xiaomi-adapter loaded
+2023-12-01T03:44:08.741Z - success: alipay-minigame loaded
+2023-12-01T03:44:08.790Z - success: assets loaded
+2023-12-01T03:44:08.794Z - success: builder loaded
+2023-12-01T03:44:09.018Z - success: cocos-services loaded
+2023-12-01T03:44:09.024Z - success: console loaded
+2023-12-01T03:44:09.055Z - success: fb-instant-games loaded
+2023-12-01T03:44:09.059Z - success: game-window loaded
+2023-12-01T03:44:09.061Z - success: google-instant-games loaded
+2023-12-01T03:44:09.066Z - success: hierarchy loaded
+2023-12-01T03:44:09.070Z - success: inspector loaded
+2023-12-01T03:44:09.071Z - success: keystore loaded
+2023-12-01T03:44:09.076Z - success: node-library loaded
+2023-12-01T03:44:09.078Z - success: package-asset loaded
+2023-12-01T03:44:09.079Z - success: preferences loaded
+2023-12-01T03:44:09.085Z - success: project-exporter loaded
+2023-12-01T03:44:09.093Z - success: project-importer loaded
+2023-12-01T03:44:09.097Z - success: project-settings loaded
+2023-12-01T03:44:09.103Z - success: scene loaded
+2023-12-01T03:44:09.105Z - success: simulator-debugger loaded
+2023-12-01T03:44:09.106Z - success: sprite-editor loaded
+2023-12-01T03:44:09.110Z - success: store loaded
+2023-12-01T03:44:09.118Z - success: timeline loaded
+2023-12-01T03:44:09.122Z - success: xiaomi-runtime loaded
+2023-12-01T03:44:09.984Z - normal: Loading packages
+2023-12-01T03:44:10.008Z - normal: Watching packages
+2023-12-01T03:44:10.099Z - normal: Run Application
+2023-12-01T03:44:11.193Z - info: Cocos Services load base data!
+2023-12-01T04:28:53.606Z - warn: The Asset used by component "cc.Sprite" is missing. Detailed information:
+Node path: "car-mustang"
+Missing uuid: "3c7bc84f-555c-41e9-8f66-c964e83a26d5"
+
+2023-12-01T04:29:32.987Z - error: Property 'GameManager.carPolice' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:215:36)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/GameManager.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/GameManager.js:70:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/GameManager.js:77:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/GameManager.js:80:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T04:29:56.919Z - error: The 'default' value of 'GameManager.carPolice' can not be an constructor. Set default to null please.
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:210:36)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/GameManager.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/GameManager.js:70:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/GameManager.js:77:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/GameManager.js:80:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T04:34:26.040Z - failed: [db-task][sync-changes] Failed to import asset /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/assets/script/GameManager.js, message: Compile error: SyntaxError: /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/assets/script/GameManager.js: Unexpected token (59:40)
+  57 |                     chicken.ani.play("chicken-die");
+  58 |                 }
+> 59 |                 this.carPolice.node.x = ;
+     |                                         ^
+  60 |             }
+  61 |         }
+  62 |     }
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3367:23)
+    at Parser.pp$3.parseExpression (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3306:19)
+2023-12-01T04:42:43.912Z - warn: The AnimationClip used by component "cc.Animation" is missing. Detailed information:
+Node path: "Canvas/car-police"
+Missing uuid: "54a94c3f-93c8-4041-9510-aa291b79d700"
+
+2023-12-01T06:00:50.189Z - error: Property 'GameManager.sound' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:215:36)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/GameManager.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/GameManager.js:68:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/GameManager.js:75:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/GameManager.js:78:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T06:01:09.802Z - error: Property 'GameManager.sound' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:215:36)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/GameManager.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/GameManager.js:68:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/GameManager.js:75:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/GameManager.js:78:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T06:42:25.082Z - warn: Please change the definition of property 'soundEffect' in class 'GameManager'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    soundEffect: cc.Texture2D,
+If you use JS, it should be changed to:
+    soundEffect: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+If you use TS, it should be changed to:
+    %s: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+    }
+    %s: cc.Texture2D = null;
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2023-12-01T06:42:46.787Z - warn: Please change the definition of property 'soundEffect' in class 'GameManager'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    soundEffect: cc.Texture2D,
+If you use JS, it should be changed to:
+    soundEffect: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+If you use TS, it should be changed to:
+    %s: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+    }
+    %s: cc.Texture2D = null;
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2023-12-01T08:39:55.220Z - error: Can not declare Light.start, it is already defined in the prototype of Light
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:81:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:88:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:91:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T08:42:57.436Z - error: Can not declare Light.start, it is already defined in the prototype of Light
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:81:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:88:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:91:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T08:44:43.358Z - error: Can not declare Light.start, it is already defined in the prototype of Light
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:81:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:88:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:91:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T08:46:05.256Z - error: Can not declare Light.start, it is already defined in the prototype of Light
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:81:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:88:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:91:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T08:46:17.429Z - error: Can not declare Light.start, it is already defined in the prototype of Light
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:81:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:88:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:91:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T08:46:48.425Z - error: Can not declare Light.start, it is already defined in the prototype of Light
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:81:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:88:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:91:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T08:47:19.953Z - error: Can not declare Light.start, it is already defined in the prototype of Light
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:81:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:88:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:91:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T08:47:49.682Z - error: Can not declare Light.start, it is already defined in the prototype of Light
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:81:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:88:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:91:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T08:49:08.612Z - error: Can not declare Light.start, it is already defined in the prototype of Light
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:81:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:88:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:91:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T08:49:27.195Z - error: Can not declare Light.start, it is already defined in the prototype of Light
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:81:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:88:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:91:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T08:50:37.344Z - error: Can not declare Light.start, it is already defined in the prototype of Light
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:81:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:88:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:91:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T08:51:36.036Z - error: Can not declare Light.start, it is already defined in the prototype of Light
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:81:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:88:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:91:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T08:53:52.905Z - error: Can not declare Light.start, it is already defined in the prototype of Light
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:83:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:90:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:93:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T08:55:31.859Z - error: Can not declare Light.start, it is already defined in the prototype of Light
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:83:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:90:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:93:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T08:56:04.991Z - error: Can not declare Light.start, it is already defined in the prototype of Light
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:84:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:91:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:94:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T08:56:36.190Z - error: Can not declare Light.start, it is already defined in the prototype of Light
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:7:4)
+    at /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:84:13
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:91:11)
+    at Object.<anonymous> (/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0/temp/quick-scripts/assets/script/Light.js:94:3)
+    at Module._compile (module.js:571:32)
+2023-12-01T10:08:32.762Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/user/Desktop/Cocos/build",
+  "debug": false,
+  "dest": "/Users/user/Desktop/Cocos/build/web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.TranVanMinh-Chicken_v2.0",
+  "platform": "web-desktop",
+  "previewHeight": 640,
+  "previewWidth": 960,
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "85e89a0f-c5cb-4e81-888b-d9cde98abc5b"
+  ],
+  "sourceMaps": false,
+  "startScene": "85e89a0f-c5cb-4e81-888b-d9cde98abc5b",
+  "template": "link",
+  "title": "TranVanMinhChickenv2",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "456fdd4a-d232-40",
+  "zipCompressJs": true,
+  "project": "/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0",
+  "projectName": "TranVanMinhChickenv2",
+  "debugBuildWorker": false
+}
+2023-12-01T10:08:32.767Z - normal: Building /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0
+2023-12-01T10:08:32.767Z - normal: Destination /Users/user/Desktop/Cocos/build/web-desktop
+2023-12-01T10:08:32.879Z - normal: Delete /Users/user/Desktop/Cocos/build/web-desktop/subpackages/**/*,/Users/user/Desktop/Cocos/build/web-desktop/**/*
+2023-12-01T10:08:34.124Z - normal: Start building assets
+2023-12-01T10:08:34.124Z - normal: Start spawn build-worker
+2023-12-01T10:08:34.560Z - normal: Finish spawn build-worker
+2023-12-01T10:08:34.560Z - normal: Start init build-worker
+2023-12-01T10:08:36.818Z - normal: Finish init build-worker
+2023-12-01T10:08:36.818Z - normal: Start build-assets in worker
+2023-12-01T10:08:37.154Z - normal: Finish build-assets in worker
+2023-12-01T10:08:37.156Z - normal: Finish building assets
+2023-12-01T10:08:37.165Z - normal: Start building plugin scripts
+2023-12-01T10:08:37.203Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2023-12-01T10:08:37.210Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2023-12-01T10:08:37.223Z - normal: Built to "/Users/user/Desktop/Cocos/build/web-desktop" successfully
+2023-12-01T10:09:26.448Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/user/Desktop/Cocos/build",
+  "debug": false,
+  "dest": "/Users/user/Desktop/Cocos/build/web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.TranVanMinh-Chicken_v2.0",
+  "platform": "web-desktop",
+  "previewHeight": 640,
+  "previewWidth": 960,
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "85e89a0f-c5cb-4e81-888b-d9cde98abc5b"
+  ],
+  "sourceMaps": false,
+  "startScene": "85e89a0f-c5cb-4e81-888b-d9cde98abc5b",
+  "template": "link",
+  "title": "Chicken_v2",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "456fdd4a-d232-40",
+  "zipCompressJs": true,
+  "project": "/Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0",
+  "projectName": "Chicken_v2",
+  "debugBuildWorker": false
+}
+2023-12-01T10:09:26.449Z - normal: Building /Users/user/Desktop/Cocos/TranVanMinh-Chicken_v2.0
+2023-12-01T10:09:26.449Z - normal: Destination /Users/user/Desktop/Cocos/build/web-desktop
+2023-12-01T10:09:26.450Z - normal: Delete /Users/user/Desktop/Cocos/build/web-desktop/subpackages/**/*,/Users/user/Desktop/Cocos/build/web-desktop/**/*
+2023-12-01T10:09:27.686Z - normal: Start building assets
+2023-12-01T10:09:27.686Z - normal: Start spawn build-worker
+2023-12-01T10:09:28.137Z - normal: Finish spawn build-worker
+2023-12-01T10:09:28.137Z - normal: Start init build-worker
+2023-12-01T10:09:30.401Z - normal: Finish init build-worker
+2023-12-01T10:09:30.401Z - normal: Start build-assets in worker
+2023-12-01T10:09:30.751Z - normal: Finish build-assets in worker
+2023-12-01T10:09:30.754Z - normal: Finish building assets
+2023-12-01T10:09:30.761Z - normal: Start building plugin scripts
+2023-12-01T10:09:30.794Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2023-12-01T10:09:30.798Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2023-12-01T10:09:30.804Z - normal: Built to "/Users/user/Desktop/Cocos/build/web-desktop" successfully

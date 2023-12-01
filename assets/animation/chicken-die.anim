@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "chicken-die",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.08333333333333333,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "7186d64c-3878-48f3-898a-b0025801faf4"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "5e5ccf53-70b6-4c15-adfb-6cda26e3ea1a"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "7d4d2857-9576-4974-9940-1356173c2521"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "37657e16-07cd-47aa-9132-e6217240bfa4"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "a708bfb6-dace-4a6c-9d8e-35e1ecb07417"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

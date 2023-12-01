@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "light-traffic",
+    "texture": "219a2295-ffd1-4346-b3d4-3dd58abcd8a5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1021,
+      1200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1021,
+      1200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

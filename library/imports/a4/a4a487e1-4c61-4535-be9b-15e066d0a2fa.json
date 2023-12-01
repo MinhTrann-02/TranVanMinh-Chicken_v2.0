@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "traffic",
+    "texture": "70825f07-4d7a-4ede-a45d-587e85f9f517",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      554,
+      311
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      554,
+      311
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
